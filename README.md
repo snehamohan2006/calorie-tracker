@@ -1,2 +1,2 @@
-# calorie-tracker
-to track calorie
+calorie tracker is used to track calories
+
